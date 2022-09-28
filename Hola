@@ -1,6 +1,5 @@
 Hola
 Cómo estás?
-
 print("hola mundo")
 
 int("Escribe un numenro: ")
